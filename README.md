@@ -24,6 +24,7 @@ Use your knowledge of SparkSQL to determine key metrics about home sales data. T
 
     * What is the "view" rating for homes costing more than or equal to $350,000? Determine the run time for this query, and round off your answer to two decimal places.
 <br>
+
 5. Cache your temporary table home_sales.
 6. Check if your temporary table is cached.
 7. Using the cached data, run the query that filters out the view ratings with an average price of greater than or equal to $350,000. Determine the runtime and compare it to uncached runtime.
